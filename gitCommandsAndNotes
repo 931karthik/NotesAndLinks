@@ -1,3 +1,5 @@
+Notes link   -  https://docs.google.com/document/d/1w-uU0vZOpT5Q1reABCt_raZedDG8CTEjNx8nNgI4dNc/edit
+
 
 1) git init
 2) git status 
@@ -46,3 +48,5 @@ Merge: Keeps the original history and adds a new commit that merges two branches
 Rebase: Moves the entire branch to start from a different point, creating a straight, linear history.
 
 Head in git
+
+
